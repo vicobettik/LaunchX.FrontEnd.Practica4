@@ -1,0 +1,39 @@
+.pokedex{
+    background-image: url('./img/Pokedex.png');
+}
+
+#foto{
+    width: 100px;
+}
+
+#fotoBack{
+    width: 100px;
+}
+
+.tablaMovs{
+    height: 200px;
+    overflow-y: auto;
+}
+
+.izq{
+    background-image: url(../img/pkdx.png);
+    background-size: contain;
+    height: 788px;
+    width: 430px;
+}
+
+.cuerpo{
+    width: 300px;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+
+.der{
+    padding: 50px;
+    margin-right: 120px;
+}
+
+.verde{
+    background-color: rgb(181, 246, 181);
+}
